@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\C#\\PrjCommandLineApplication\\PrjFirstApplication\\FirstOne\\FirstOne.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\gitDemo\\PrjCommandLineApplication\\PrjFirstApplication\\FirstOne\\FirstOne.csproj",
       "projectName": "FirstOne",
-      "projectPath": "C:\\Users\\user\\Desktop\\C#\\PrjCommandLineApplication\\PrjFirstApplication\\FirstOne\\FirstOne.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\gitDemo\\PrjCommandLineApplication\\PrjFirstApplication\\FirstOne\\FirstOne.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\C#\\PrjCommandLineApplication\\PrjFirstApplication\\FirstOne\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\gitDemo\\PrjCommandLineApplication\\PrjFirstApplication\\FirstOne\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KGzIeAe8tWZeBk5U7GusEoTjTzSJwND1XanhxjVLeptQ9y3kaUtt61ghLE8d+nLeoh+mdoEaP+2YXooanTEM5g==",
+  "dgSpecHash": "ZfGkJQt87UXiSnUhjSEL+AtdxrBHD5Pp7j2lFeTujBcCL5uBnLIBSyT3cv63wo8pw4trLxYcWaz2gXQlBlGv0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\C#\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\gitDemo\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

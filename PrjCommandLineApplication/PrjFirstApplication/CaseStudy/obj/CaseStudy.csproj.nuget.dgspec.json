@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\C#\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj": {}
+    "C:\\Users\\user\\Desktop\\gitDemo\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\C#\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj": {
+    "C:\\Users\\user\\Desktop\\gitDemo\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\C#\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\gitDemo\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj",
         "projectName": "CaseStudy",
-        "projectPath": "C:\\Users\\user\\Desktop\\C#\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\gitDemo\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\CaseStudy.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\C#\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\gitDemo\\PrjCommandLineApplication\\PrjFirstApplication\\CaseStudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
