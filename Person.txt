@@ -1,0 +1,5 @@
+Person
+
+1.P_Name
+2.Person_BloodGroup
+3.Gender

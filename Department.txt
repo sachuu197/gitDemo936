@@ -1,0 +1,5 @@
+Department
+
+1.D_Name
+2.D_Salary
+3.Location
