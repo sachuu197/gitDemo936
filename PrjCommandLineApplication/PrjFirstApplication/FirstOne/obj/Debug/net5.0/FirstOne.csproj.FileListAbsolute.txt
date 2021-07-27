@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\bin\Debug\net5.0\FirstOne.exe
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\bin\Debug\net5.0\FirstOne.deps.json
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\bin\Debug\net5.0\FirstOne.runtimeconfig.json
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\bin\Debug\net5.0\FirstOne.runtimeconfig.dev.json
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\bin\Debug\net5.0\FirstOne.dll
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\bin\Debug\net5.0\ref\FirstOne.dll
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\bin\Debug\net5.0\FirstOne.pdb
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\obj\Debug\net5.0\FirstOne.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\obj\Debug\net5.0\FirstOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\obj\Debug\net5.0\FirstOne.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\obj\Debug\net5.0\FirstOne.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\obj\Debug\net5.0\FirstOne.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\obj\Debug\net5.0\FirstOne.dll
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\obj\Debug\net5.0\ref\FirstOne.dll
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\obj\Debug\net5.0\FirstOne.pdb
+C:\Users\user\Desktop\C#\PrjCommandLineApplication\PrjFirstApplication\FirstOne\obj\Debug\net5.0\FirstOne.genruntimeconfig.cache
